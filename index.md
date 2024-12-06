@@ -3,7 +3,9 @@ Hello, I'm Shihao Wang, an undergratuate student of Tanwei collage at Tsinghua U
 
 My email is wangshih21 [at] mails [dot] tsinghua [dot] edu [dot] cn, and my workstation is S109 at C740 of Shuangqing Complex Building A. Please contact me by email if you find any mistake in my publications or notes, and all comments are welcomed.
 
-### Pulications
+### Papers
+
+1.On Bott-Samelson Rings For Coxeter Groups(http://arxiv.org/abs/2408.10155)
 
 
 ### Notes
