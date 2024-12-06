@@ -17,4 +17,3 @@ My research interests focus on Hodge theory and classification of algebraic vari
 
 ### Teaching
    
-### Travel (to workshops, summer schools and so on)
