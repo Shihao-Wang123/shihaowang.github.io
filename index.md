@@ -12,7 +12,7 @@ My email is wangshih21 [at] mails [dot] tsinghua [dot] edu [dot] cn, and my work
 
 ### Papers
 
-1.On Bott-Samelson Rings For Coxeter Groups(http://arxiv.org/abs/2408.10155)
+1.On Bott-Samelson Rings For Coxeter Groups[http://arxiv.org/abs/2408.10155]
 
 
 ### Notes
