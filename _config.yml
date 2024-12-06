@@ -9,8 +9,8 @@
 title: Shihao's Homepage
 
 # Build settings
-markdown: kramdown
+markdown: 
 
-gems: [jekyll-paginate]
+gems: 
 
 paginate: 10
