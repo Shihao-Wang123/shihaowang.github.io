@@ -10,7 +10,7 @@ My research interests focus on Hodge theory and classification of algebraic vari
 
 ### Papers
 
-1.On Bott-Samelson Rings For Coxeter Groups[http://arxiv.org/abs/2408.10155]
+1.[On Bott-Samelson Rings For Coxeter Groups](http://arxiv.org/abs/2408.10155)
 
 
 ### Notes
