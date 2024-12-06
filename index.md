@@ -1,8 +1,9 @@
 
 ### Welcome to my homepage
-wangshih21 [at] mails. tsinghua. edu. cn
 
- Shuangqing C740
+Email: wangshih21 [at] mails. tsinghua. edu. cn
+
+Workstation: Shuangqing C740
 
 Hello, I am Shihao Wang, an undergratuate student of Tanwei College at Tsinghua University from Sept 2021, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). 
 
