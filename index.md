@@ -14,19 +14,7 @@ My research interests focus on Hodge theory and classification of algebraic vari
 
 
 ### Notes
-#### Seminar Notes
-
-
-#### Lecture Notes
-
-
-#### Learning Notes
-
 
 ### Teaching
-#### Lecturer
-
-#### Teaching Assistant
-   
    
 ### Travel (to workshops, summer schools and so on)
