@@ -3,7 +3,7 @@ Email:wangshih21 [at] mails. tsinghua. edu. cn
 
 Workstation: Shuangqing C740
 
-Hello, I'm Shihao Wang, an undergratuate student of Tanwei College at Tsinghua University from Sept 2021, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). 
+Hello, I am Shihao Wang, an undergratuate student of Tanwei College at Tsinghua University from Sept 2021, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). 
 
 My research interests focus on Hodge theory and classification of algebraic varieties.
 
