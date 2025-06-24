@@ -12,7 +12,7 @@ My research interests focus on the application of algebraic geometry in combinat
 
 1.[On Bott-Samelson Rings For Coxeter Groups.](http://arxiv.org/abs/2408.10155)(with Tao Gui, Lin Sun and Haoyu Zhu)
 
-2.[PageRank of Gluing Networks and Corresponding Markov Chains](https://www.mdpi.com/2227-7390/13/13/2080). [pdf version](https://www.mdpi.com/2227-7390/13/13/2080/pdf).
+2.[PageRank of Gluing Networks and Corresponding Markov Chains](https://www.mdpi.com/2227-7390/13/13/2080) and [pdf version](https://www.mdpi.com/2227-7390/13/13/2080/pdf).
 
 ### Notes
 
