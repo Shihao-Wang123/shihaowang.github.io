@@ -18,7 +18,7 @@ My research interests focus on the application of algebraic geometry in combinat
 
 ### Notes
 
-1.[Basic on K3 surface](notes/dictionary)
+1.[Basic on K3 surface](notes/2025 Fall/hyperKahler seminar_basic K3 surface.pdf)
 
 ### Teaching
 
