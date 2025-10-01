@@ -18,7 +18,7 @@ My research interests focus on the application of algebraic geometry in combinat
 
 ### Notes
 
-1.[Basic K3 surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction on K3 surfaces and some examples of hyperKähler manifolds.
+1.[Basic K3 surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction to K3 surfaces and some examples of hyperKähler manifolds.
 
 ### Teaching
 
