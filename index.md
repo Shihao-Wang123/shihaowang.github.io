@@ -14,7 +14,10 @@ My research interests focus on the application of algebraic geometry in combinat
 
 2.[PageRank of Gluing Networks and Corresponding Markov Chains](https://www.mdpi.com/2227-7390/13/13/2080) and [PDF version](https://www.mdpi.com/2227-7390/13/13/2080/pdf).(with Xuqian Ben Han and Chenglong Yu)
 
+3.[Cubic Fourfolds with an Order-7 Automorphism](https://arxiv.org/abs/2509.26359).(with Xuancong He, Yi Li and Zhiwei Zheng)
+
 ### Notes
+
 
 ### Teaching
 
