@@ -16,6 +16,8 @@ My research interests focus on the application of algebraic geometry in combinat
 
 3.[Cubic Fourfolds with an Order-7 Automorphism](https://arxiv.org/abs/2509.26359).(with Xuancong He, Yi Li and Zhiwei Zheng)
 
+4.[Double Integrals and Transformation Formulas for Appell--Lauricella Hypergeometric functions F_{D}](https://arxiv.org/abs/2602.03601).(with Chenglong Yu and Zhiwei Zheng)
+
 ### Notes
 
 1.[Basic K3 surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction to K3 surfaces and some examples of hyperKähler manifolds.
