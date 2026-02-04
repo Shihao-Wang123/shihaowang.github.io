@@ -16,7 +16,7 @@ My research interests focus on the application of algebraic geometry in combinat
 
 3.[Cubic Fourfolds with an Order-7 Automorphism](https://arxiv.org/abs/2509.26359).(with Xuancong He, Yi Li and Zhiwei Zheng)
 
-4.[Double Integrals and Transformation Formulas for Appell--Lauricella Hypergeometric functions F<sub>D<\sub>](https://arxiv.org/abs/2602.03601).(with Chenglong Yu and Zhiwei Zheng)
+4.[Double Integrals and Transformation Formulas for Appell--Lauricella Hypergeometric Functions F<\sub>D](https://arxiv.org/abs/2602.03601).(with Chenglong Yu and Zhiwei Zheng)
 
 ### Notes
 
