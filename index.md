@@ -4,9 +4,9 @@ Email: wangshihao112@gmail.com
 
 Workstation: Shuangqing C740
 
-Hello, I am Shihao Wang. I will be a phD student in Qiuzhen College of Tsinghua University from July 2025, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/) and [Zhiwei Zheng](https://zhengzhiweimath.github.io/homepage/).
+Hello, I am Shihao Wang. I am a phD student in Qiuzhen College of Tsinghua University from July 2025, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/) and [Zhiwei Zheng](https://zhengzhiweimath.github.io/homepage/).
 
-My research interests focus on the application of algebraic geometry in combinatorics, Hodge theory and geometric representation theory.
+My research interests focus on the Hodge theory.
 
 ### Papers
 
