@@ -18,7 +18,7 @@ My research interests focus on the Hodge theory.
 
 4.[Double Integrals and Transformation Formulas for Appell--Lauricella Hypergeometric Functions](https://arxiv.org/abs/2602.03601).(with Chenglong Yu and Zhiwei Zheng)
 
-5.[Non-symplectic Indices of Automorphism Groups of Smooth cubic Fourfolds](https://arxiv.org/abs/2606.11754).(with Jie Fu and Zhiwei Zheng)
+5.[Non-symplectic Indices of Automorphism Groups of Smooth Cubic Fourfolds](https://arxiv.org/abs/2606.11754).(with Jie Fu and Zhiwei Zheng)
 
 ### Notes
 
