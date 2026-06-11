@@ -18,6 +18,8 @@ My research interests focus on the Hodge theory.
 
 4.[Double Integrals and Transformation Formulas for Appell--Lauricella Hypergeometric Functions](https://arxiv.org/abs/2602.03601).(with Chenglong Yu and Zhiwei Zheng)
 
+5.[Non-symplectic Indices of Automorphism Groups of Smooth cubic Fourfolds](https://arxiv.org/abs/2606.11754).(with Jie Fu and Zhiwei Zheng)
+
 ### Notes
 
 1.[Basic K3 surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction to K3 surfaces and some examples of hyperKähler manifolds.
