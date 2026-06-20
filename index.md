@@ -24,7 +24,7 @@ My research interests focus on the Hodge theory.
 
 1.[Basic K3 Surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction to K3 surfaces and some examples of hyperKähler manifolds.
 
-2.[Totaro's Theorem on Hypersurface Irrationality](notes/26Spring/)
+2.[Totaro's Theorem on Hypersurface Irrationality](notes/2026Spring/Totaro's_Theorem_on_Hypersurface_Irrationality). It is an introduction to Totaro's theorem for the stable irrationality of some Fano hypersurfaces.
 
 ### Teaching
 
