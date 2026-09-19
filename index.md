@@ -20,6 +20,8 @@ My research interests focus on the Hodge theory.
 
 5.[Non-symplectic Indices of Automorphism Groups of Smooth Cubic Fourfolds](https://arxiv.org/abs/2606.11754).(with Jie Fu and Zhiwei Zheng)
 
+6.[Classification of Automorphism Groups of Smooth Cubic Threefolds and Cubic Fourfolds](https://arxiv.org/abs/2609.20403).(with Jie Fu and Zhiwei Zheng)
+
 ### Notes
 
 1.[Basic K3 Surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction to K3 surfaces and some examples of hyperKähler manifolds.
