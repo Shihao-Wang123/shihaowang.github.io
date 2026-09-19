@@ -20,7 +20,7 @@ My research interests focus on the Hodge theory.
 
 5.[Non-symplectic Indices of Automorphism Groups of Smooth Cubic Fourfolds](https://arxiv.org/abs/2606.11754).(with Jie Fu and Zhiwei Zheng)
 
-6.[Classification of Automorphism Groups of Smooth Cubic Threefolds and Cubic Fourfolds](https://arxiv.org/abs/2609.20403).(with Jie Fu and Zhiwei Zheng)
+6.[Classification of Automorphism Groups of Smooth Cubic Threefolds and Fourfolds](https://arxiv.org/abs/2609.20403).(with Jie Fu and Zhiwei Zheng)
 
 ### Notes
 
