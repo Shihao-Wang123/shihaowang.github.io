@@ -22,7 +22,7 @@ My research interests focus on the Hodge theory.
 
 6.[Classification of Automorphism Groups of Smooth Cubic Threefolds and Fourfolds](https://arxiv.org/abs/2609.20403).(with Jie Fu and Zhiwei Zheng)
 
-7.[A Proof of Mongardi's Conjecture on Finite Symplectic Group Actions on Hyperk\"ahler Manifold of K3^{\[n\]} Type](https://arxiv.org/abs/2610.11109).(with Jie Fu and Zhiwei Zheng)
+7.[A Proof of Mongardi's Conjecture on Finite Symplectic Group Actions on Hyperk\"ahler Manifold of K3^\[n\] Type](https://arxiv.org/abs/2610.11109).(with Jie Fu and Zhiwei Zheng)
 
 ### Notes
 
