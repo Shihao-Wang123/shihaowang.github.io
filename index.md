@@ -24,7 +24,7 @@ My research interests focus on the Hodge theory.
 
 7.[A Proof of Mongardi's Conjecture on Finite Symplectic Group Actions on Hyperk\"{a}hler Manifold of K3^\[n\] Type](https://arxiv.org/abs/2610.11109).(with Jie Fu and Zhiwei Zheng)
 
-8.[Finite Symplectic Automorphisms of Hyperk\"ahler Manifolds of K3^\[n\]-Type Act Trivially on Discriminant Groups].(with Jie Fu and Zhiwei Zheng)
+8.[Finite Symplectic Automorphisms of Hyperk\"ahler Manifolds of K3^\[n\]-Type Act Trivially on Discriminant Groups](notes/2026Spring/Mongardi_gap(9).pdf).(with Jie Fu and Zhiwei Zheng)
 ### Notes
 
 1.[Basic K3 Surfaces](notes/2025Fall/hyperKahler_seminar_basic_K3_surface.pdf). My note for the hyperKähler seminar. It is a brief introduction to K3 surfaces and some examples of hyperKähler manifolds.
